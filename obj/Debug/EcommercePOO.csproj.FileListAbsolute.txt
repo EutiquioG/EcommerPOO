@@ -1,0 +1,9 @@
+C:\Users\ASUS\source\repos\EcommercePOO\bin\Debug\EcommercePOO.exe.config
+C:\Users\ASUS\source\repos\EcommercePOO\bin\Debug\EcommercePOO.exe
+C:\Users\ASUS\source\repos\EcommercePOO\bin\Debug\EcommercePOO.pdb
+C:\Users\ASUS\source\repos\EcommercePOO\obj\Debug\EcommercePOO.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\EcommercePOO\obj\Debug\EcommercePOO.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\EcommercePOO\obj\Debug\EcommercePOO.exe
+C:\Users\ASUS\source\repos\EcommercePOO\obj\Debug\EcommercePOO.pdb
+C:\Users\ASUS\source\repos\EcommercePOO\obj\Debug\EcommercePOO.FormTienda.resources
+C:\Users\ASUS\source\repos\EcommercePOO\obj\Debug\EcommercePOO.csproj.GenerateResource.cache
